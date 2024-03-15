@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/TheLegend760/Weather-APP-TheOdinProject]
+- Solution URL: [https://github.com/Kevo760/Weather-APP-TheOdinProject]
 - Live Site URL: [https://weather-app-theodinproject.netlify.app/]
 
 ## My process
